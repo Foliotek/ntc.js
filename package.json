@@ -1,0 +1,17 @@
+{
+    "name": "ntc.js",
+    "version": "1.1.2",
+    "description": "Npm version of Name That Color library (ntc js) - http://chir.ag/projects/ntc/",
+    "main": "./ntc.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Foliotek/ntc.js.git"
+    },
+    "keywords": ["name", "that", "color", "hex", "rgb", "hue", "ntc", "ntc.js"],
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Foliotek/ntc.js/issues"
+    },
+    "homepage": "https://github.com/Foliotek/ntc.js#readme"
+}
