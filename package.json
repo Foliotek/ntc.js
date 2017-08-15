@@ -1,5 +1,5 @@
 {
-    "name": "ntc.js",
+    "name": "@Foliotek/ntc.js",
     "version": "1.1.2",
     "description": "Npm version of Name That Color library (ntc js) - http://chir.ag/projects/ntc/",
     "main": "./ntc.js",
